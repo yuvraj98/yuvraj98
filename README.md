@@ -1,5 +1,5 @@
 
-[![Masterhead(https://miro.medium.com/v2/resize:fit:833/1*FDvKZ3_UYcJ0hOJw_84uOA.png)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:833/1*FDvKZ3_UYcJ0hOJw_84uOA.png)]
 <h1 align="center">Hi 👋, I'm Yuvraj Chavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flottieanimationchainstarters--59813501292017265%2F&psig=AOvVaw2ngTAj8wNzVRV7oG4YH6kl&ust=1711176359257000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICg1Oqih4UDFQAAAAAdAAAAABAE"
