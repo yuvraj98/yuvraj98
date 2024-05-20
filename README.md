@@ -1,7 +1,7 @@
 
 [![MasterHead](https://miro.medium.com/v2/resize:fit:833/1*FDvKZ3_UYcJ0hOJw_84uOA.png)]
 <h1 align="center">Hi 👋, I'm Yuvraj Chavan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj98" alt="yuvraj98" /></a> </p>
 
